@@ -1,0 +1,12 @@
+[
+  {
+    "id": "msg_1790955430167",
+    "name": "Recruiter Test",
+    "email": "recruiter@example.com",
+    "subject": "Data Analyst Role Inquiry",
+    "message": "Hello Kabil, we are impressed with your AI/ML projects and want to discuss an interview.",
+    "timestamp": "2026-10-02T15:37:10.167Z",
+    "recipient": "kabil19112004c@gmail.com",
+    "status": "delivered"
+  }
+]
